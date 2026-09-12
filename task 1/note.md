@@ -1,5 +1,11 @@
 # Hotel Booking Data Insights
 
+## Dataset Note
+
+The original task suggested using the sales_data_sample.csv retail dataset. For this project, I chose to work with the Hotel Booking Demand dataset instead.
+
+The alternative dataset was selected to apply the same required data loading, cleaning, summary statistics and first-exploration techniques to a different business context. The core task requirements were preserved while the analysis was adapted to hotel booking behavior, cancellations, market segments and reservation patterns.
+
 ## Data Cleaning Notes
 
 The dataset contains 119,390 hotel booking records and 32 columns.
