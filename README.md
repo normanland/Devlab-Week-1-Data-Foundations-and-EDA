@@ -1,4 +1,4 @@
-# DevLab Week 1 — Data Foundations & Exploratory Analysis
+# Devlab Week 1 — Data Foundations & Exploratory Analysis
 
 Week 1 focused on moving from raw datasets to structured, business-oriented analysis using Python.
 
